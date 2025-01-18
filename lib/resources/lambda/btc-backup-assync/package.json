@@ -1,0 +1,9 @@
+{
+  "name": "btc-backup-assync",
+  "version": "1.0.0",
+  "description": "Lambda function to process SQS messages and move data to backup S3 bucket",
+  "main": "index.js",
+  "dependencies": {
+    "aws-sdk": "^2.814.0"
+  }
+}

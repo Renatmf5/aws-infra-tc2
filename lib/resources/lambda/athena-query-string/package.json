@@ -1,0 +1,9 @@
+{
+  "name": "athena-query-string",
+  "version": "1.0.0",
+  "description": "Lambda function to generate Athena query string",
+  "main": "index.js",
+  "dependencies": {
+    "aws-sdk": "^2.814.0"
+  }
+}
